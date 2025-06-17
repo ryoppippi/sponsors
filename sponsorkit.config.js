@@ -7,7 +7,7 @@ export default defineConfig({
   },
   outputDir: import.meta.dirname,
   prorateOnetime: true,
-  formats: ['svg'],
+  formats: ['svg', 'png'],
   width: 800,
   name: 'sponsors',
   tiers: [
