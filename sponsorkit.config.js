@@ -6,4 +6,8 @@ export default defineConfig({
     type: 'user',
   },
   outputDir: import.meta.dirname,
+  prorateOnetime: true,
+  formats: ['svg'],
+  width: 800,
+  name: 'sponsors'
 })
