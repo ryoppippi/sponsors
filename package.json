@@ -1,0 +1,12 @@
+{
+  "name": "sponsor",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "sponsorkit": "^16.5.0"
+  }
+}
