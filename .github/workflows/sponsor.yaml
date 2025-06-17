@@ -28,7 +28,7 @@ jobs:
         run: bun install --production
 
       - name: Update sponsors
-        run: bun sponsorkit
+        run: bun run update
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
 

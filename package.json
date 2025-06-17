@@ -2,6 +2,9 @@
   "name": "sponsor",
   "type": "module",
   "private": true,
+  "scripts": {
+    "update": "bun run -b sponsorkit"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "typescript": "^5.8.3"
