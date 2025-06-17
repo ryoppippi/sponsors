@@ -32,14 +32,9 @@ jobs:
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
 
-      - name: Commit
+      - name: If changed, commit and push
         run: |
-          if [[ -z $(git status --porcelain --untracked-files=no) ]]; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
           git config user.name 'ryoppippi'
           git config user.email '1560508+ryoppippi@users.noreply.github.com'
-          git commit -am 'chore: update sponsors'
-          git push
+          git add . && git commit -m 'Update sponsors' || echo 'No changes to commit'
+          git push origin main
