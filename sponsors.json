@@ -1,0 +1,58 @@
+[
+  {
+    "name": "take",
+    "login": "takeokunn",
+    "avatar": "https://avatars.githubusercontent.com/u/11222510?u=31b28364b7ecf07e8e499bc58dfe0a388edeaeea&v=4",
+    "amount": 8,
+    "link": "https://github.com/takeokunn",
+    "org": false
+  },
+  {
+    "name": "Kazuki Yamada",
+    "login": "yamadashy",
+    "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
+    "amount": 5,
+    "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": "harumeri",
+    "login": "harumeri",
+    "avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
+    "amount": 4,
+    "link": "https://github.com/harumeri",
+    "org": false
+  },
+  {
+    "name": "Takuma Miyashita",
+    "login": "miyashita-code",
+    "avatar": "https://avatars.githubusercontent.com/u/116678712?u=a22c59cbe20569fb184f81e3a1f05078de573bae&v=4",
+    "amount": 1,
+    "link": "https://github.com/miyashita-code",
+    "org": false
+  },
+  {
+    "name": "Katsuyuki Karasawa",
+    "login": "L4Ph",
+    "avatar": "https://avatars.githubusercontent.com/u/70247011?u=785f88477111c2170dba86263795adf85cbd248f&v=4",
+    "amount": -1,
+    "link": "https://github.com/L4Ph",
+    "org": false
+  },
+  {
+    "name": "Tim Kevin Oxley",
+    "login": "timoxley",
+    "avatar": "https://avatars.githubusercontent.com/u/43438?u=5c368933e2e76e70dfbadbe52f96d786b6661557&v=4",
+    "amount": -1,
+    "link": "https://github.com/timoxley",
+    "org": false
+  },
+  {
+    "name": "Jeongho Nam",
+    "login": "samchon",
+    "avatar": "https://avatars.githubusercontent.com/u/13158709?u=e23bb8f07478072e32e194b32646aff392afc048&v=4",
+    "amount": -1,
+    "link": "https://github.com/samchon",
+    "org": false
+  }
+]
