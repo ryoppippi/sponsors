@@ -1,5 +1,21 @@
 [
   {
+    "name": "Satoshi Terasaki",
+    "login": "terasakisatoshi",
+    "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
+    "amount": 10,
+    "link": "https://github.com/terasakisatoshi",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "mozumasu",
+    "avatar": "https://avatars.githubusercontent.com/u/93071448?u=764be251cec06d6127f309ba022ff744996fef3d&v=4",
+    "amount": 8,
+    "link": "https://github.com/mozumasu",
+    "org": false
+  },
+  {
     "name": "take",
     "login": "takeokunn",
     "avatar": "https://avatars.githubusercontent.com/u/11222510?u=31b28364b7ecf07e8e499bc58dfe0a388edeaeea&v=4",
@@ -13,6 +29,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
     "amount": 5,
     "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": "ニケちゃん / nikechan",
+    "login": "tegnike",
+    "avatar": "https://avatars.githubusercontent.com/u/35606144?u=9fc77c0fed7df14afd0aaf8a77bdcb73e5c94fdd&v=4",
+    "amount": 4,
+    "link": "https://github.com/tegnike",
     "org": false
   },
   {
