@@ -1,5 +1,21 @@
 [
   {
+    "name": "Murata Hideki",
+    "login": "currypurin",
+    "avatar": "https://avatars.githubusercontent.com/u/24523856?u=bb3afe43cb8e1a4d7d1de05ebf3780bb2d12fd5f&v=4",
+    "amount": 80,
+    "link": "https://github.com/currypurin",
+    "org": false
+  },
+  {
+    "name": "Reiki Hattori",
+    "login": "srvhat09",
+    "avatar": "https://avatars.githubusercontent.com/u/2031552?u=c13c5a56ae5653a53c1d1d6ee6e017507c434dbd&v=4",
+    "amount": 20,
+    "link": "https://github.com/srvhat09",
+    "org": false
+  },
+  {
     "name": "Satoshi Terasaki",
     "login": "terasakisatoshi",
     "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
@@ -24,11 +40,27 @@
     "org": false
   },
   {
+    "name": "sergicalsix",
+    "login": "sergicalsix",
+    "avatar": "https://avatars.githubusercontent.com/u/54880743?u=73a7da432ca5399f63fa04920dda0b180986d8b4&v=4",
+    "amount": 5,
+    "link": "https://github.com/sergicalsix",
+    "org": false
+  },
+  {
     "name": "Kazuki Yamada",
     "login": "yamadashy",
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
     "amount": 5,
     "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": "ぬこぬこ",
+    "login": "schroneko",
+    "avatar": "https://avatars.githubusercontent.com/u/26535237?u=07ec30702e6e1e290e082c51efb25abda83a3487&v=4",
+    "amount": 4,
+    "link": "https://github.com/schroneko",
     "org": false
   },
   {
@@ -53,6 +85,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
     "amount": 4,
     "link": "https://github.com/harumeri",
+    "org": false
+  },
+  {
+    "name": "Kentaro Matsumoto",
+    "login": "matsu7874",
+    "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
+    "amount": 1,
+    "link": "https://github.com/matsu7874",
     "org": false
   },
   {
