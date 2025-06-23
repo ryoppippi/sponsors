@@ -72,6 +72,14 @@
     "org": false
   },
   {
+    "name": "Ikwus",
+    "login": "Ikwus",
+    "avatar": "https://avatars.githubusercontent.com/u/68527742?u=115ec2dc71209abad8fd26159b3f00ed4c2b2492&v=4",
+    "amount": 4,
+    "link": "https://github.com/Ikwus",
+    "org": false
+  },
+  {
     "name": "Oikon",
     "login": "s4yuba",
     "avatar": "https://avatars.githubusercontent.com/u/38171341?u=dafe09fc7970eea9b45bdeaa8fdffcd596e54d5d&v=4",
@@ -117,6 +125,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
     "amount": 4,
     "link": "https://github.com/harumeri",
+    "org": false
+  },
+  {
+    "name": "suzuki86",
+    "login": "suzuki86",
+    "avatar": "https://avatars.githubusercontent.com/u/6505720?u=75c054880c73efa6a869c0396706bb653f07ae1f&v=4",
+    "amount": 2,
+    "link": "https://github.com/suzuki86",
     "org": false
   },
   {
