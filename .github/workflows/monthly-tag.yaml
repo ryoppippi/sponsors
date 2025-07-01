@@ -1,0 +1,56 @@
+name: Create Monthly Tag
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # Run at 00:00 on the 1st day of every month
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  create-monthly-tag:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for tags
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Get current date
+        id: date
+        run: echo "tag=$(date +'%Y%m')" >> $GITHUB_OUTPUT
+
+      - name: Check if tag exists
+        id: check-tag
+        run: |
+          if git rev-parse "refs/tags/${{ steps.date.outputs.tag }}" >/dev/null 2>&1; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create and push tag
+        if: steps.check-tag.outputs.exists == 'false'
+        run: |
+          git tag -a "${{ steps.date.outputs.tag }}" -m "Monthly tag for ${{ steps.date.outputs.tag }}"
+          git push origin "${{ steps.date.outputs.tag }}"
+
+      - name: Create release
+        if: steps.check-tag.outputs.exists == 'false'
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.date.outputs.tag }}
+          release_name: Release ${{ steps.date.outputs.tag }}
+          body: |
+            Monthly release for ${{ steps.date.outputs.tag }}
+          draft: false
+          prerelease: false
+
