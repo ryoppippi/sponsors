@@ -3,11 +3,12 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "update": "bun run -b sponsorkit"
+    "update": "bun run -b sponsorkit",
+    "typecheck": "tsgo --noEmit"
   },
   "devDependencies": {
     "@types/bun": "latest",
-    "typescript": "^5.8.3"
+    "@typescript/native-preview": "^7.0.0-dev.20250701.1"
   },
   "dependencies": {
     "sponsorkit": "^16.5.0"
