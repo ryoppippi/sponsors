@@ -88,6 +88,14 @@
     "org": false
   },
   {
+    "name": "John Donmoyer",
+    "login": "donjo",
+    "avatar": "https://avatars.githubusercontent.com/u/776987?u=d4f739afd02938ac25d94451b245dc82ed68459d&v=4",
+    "amount": 5,
+    "link": "https://github.com/donjo",
+    "org": false
+  },
+  {
     "name": "Tomoki Saito | 齋藤 智樹",
     "login": "Tomoki-Saito",
     "avatar": "https://avatars.githubusercontent.com/u/53966963?u=e8ee0900961b7ed3bb1e58b24bb383aea1b8c5e6&v=4",
