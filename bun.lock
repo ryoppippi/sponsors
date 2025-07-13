@@ -8,7 +8,7 @@
       },
       "devDependencies": {
         "@types/bun": "latest",
-        "@typescript/native-preview": "^7.0.0-dev.20250709.1",
+        "@typescript/native-preview": "^7.0.0-dev.20250710.1",
       },
     },
   },
