@@ -168,14 +168,6 @@
     "org": false
   },
   {
-    "name": "ぬこぬこ",
-    "login": "schroneko",
-    "avatar": "https://avatars.githubusercontent.com/u/26535237?u=07ec30702e6e1e290e082c51efb25abda83a3487&v=4",
-    "amount": 4,
-    "link": "https://github.com/schroneko",
-    "org": false
-  },
-  {
     "name": "Suguru Kishimoto",
     "login": "sgr-ksmt",
     "avatar": "https://avatars.githubusercontent.com/u/9350581?u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4",
@@ -237,6 +229,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "ぬこぬこ",
+    "login": "schroneko",
+    "avatar": "https://avatars.githubusercontent.com/u/26535237?u=07ec30702e6e1e290e082c51efb25abda83a3487&v=4",
+    "amount": -1,
+    "link": "https://github.com/schroneko",
     "org": false
   },
   {
