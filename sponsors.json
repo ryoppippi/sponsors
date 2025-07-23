@@ -8,27 +8,19 @@
     "org": false
   },
   {
-    "name": "Murata Hideki",
-    "login": "currypurin",
-    "avatar": "https://avatars.githubusercontent.com/u/24523856?u=bb3afe43cb8e1a4d7d1de05ebf3780bb2d12fd5f&v=4",
-    "amount": 80,
-    "link": "https://github.com/currypurin",
-    "org": false
-  },
-  {
-    "name": "Reiki Hattori",
-    "login": "srvhat09",
-    "avatar": "https://avatars.githubusercontent.com/u/2031552?u=c13c5a56ae5653a53c1d1d6ee6e017507c434dbd&v=4",
-    "amount": 20,
-    "link": "https://github.com/srvhat09",
-    "org": false
-  },
-  {
     "name": "motoki317",
     "login": "motoki317",
     "avatar": "https://avatars.githubusercontent.com/u/18257693?u=f539017e33c5c851db7be078d181ea92700e3cef&v=4",
     "amount": 16,
     "link": "https://github.com/motoki317",
+    "org": false
+  },
+  {
+    "name": "Murata Hideki",
+    "login": "currypurin",
+    "avatar": "https://avatars.githubusercontent.com/u/24523856?u=bb3afe43cb8e1a4d7d1de05ebf3780bb2d12fd5f&v=4",
+    "amount": 16,
+    "link": "https://github.com/currypurin",
     "org": false
   },
   {
@@ -104,14 +96,6 @@
     "org": false
   },
   {
-    "name": "sergicalsix",
-    "login": "sergicalsix",
-    "avatar": "https://avatars.githubusercontent.com/u/54880743?u=73a7da432ca5399f63fa04920dda0b180986d8b4&v=4",
-    "amount": 5,
-    "link": "https://github.com/sergicalsix",
-    "org": false
-  },
-  {
     "name": "Kazuki Yamada",
     "login": "yamadashy",
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
@@ -165,6 +149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/6907421?u=8147b8173bedb115b2e95ad22044c36e64c660fa&v=4",
     "amount": 4,
     "link": "https://github.com/sudame",
+    "org": false
+  },
+  {
+    "name": "Reiki Hattori",
+    "login": "srvhat09",
+    "avatar": "https://avatars.githubusercontent.com/u/2031552?u=c13c5a56ae5653a53c1d1d6ee6e017507c434dbd&v=4",
+    "amount": 4,
+    "link": "https://github.com/srvhat09",
     "org": false
   },
   {
@@ -229,6 +221,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "sergicalsix",
+    "login": "sergicalsix",
+    "avatar": "https://avatars.githubusercontent.com/u/54880743?u=73a7da432ca5399f63fa04920dda0b180986d8b4&v=4",
+    "amount": -1,
+    "link": "https://github.com/sergicalsix",
     "org": false
   },
   {
