@@ -40,14 +40,6 @@
     "org": false
   },
   {
-    "name": "John Shelburne",
-    "login": "thecatfix",
-    "avatar": "https://avatars.githubusercontent.com/u/55940700?u=000e9ac0977719a0283dc01745fd9906185c490a&v=4",
-    "amount": 10,
-    "link": "https://github.com/thecatfix",
-    "org": false
-  },
-  {
     "name": "Satoshi Terasaki",
     "login": "terasakisatoshi",
     "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
@@ -77,14 +69,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/776987?u=d4f739afd02938ac25d94451b245dc82ed68459d&v=4",
     "amount": 5,
     "link": "https://github.com/donjo",
-    "org": false
-  },
-  {
-    "name": "Tomoki Saito - 齋藤 智樹",
-    "login": "Tomoki-Saito",
-    "avatar": "https://avatars.githubusercontent.com/u/53966963?u=e8ee0900961b7ed3bb1e58b24bb383aea1b8c5e6&v=4",
-    "amount": 5,
-    "link": "https://github.com/Tomoki-Saito",
     "org": false
   },
   {
@@ -133,14 +117,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/38171341?u=dafe09fc7970eea9b45bdeaa8fdffcd596e54d5d&v=4",
     "amount": 4,
     "link": "https://github.com/s4yuba",
-    "org": false
-  },
-  {
-    "name": "Mikihiro SUDA",
-    "login": "sudame",
-    "avatar": "https://avatars.githubusercontent.com/u/6907421?u=8147b8173bedb115b2e95ad22044c36e64c660fa&v=4",
-    "amount": 4,
-    "link": "https://github.com/sudame",
     "org": false
   },
   {
@@ -213,6 +189,30 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "John Shelburne",
+    "login": "thecatfix",
+    "avatar": "https://avatars.githubusercontent.com/u/55940700?u=000e9ac0977719a0283dc01745fd9906185c490a&v=4",
+    "amount": -1,
+    "link": "https://github.com/thecatfix",
+    "org": false
+  },
+  {
+    "name": "Tomoki Saito - 齋藤 智樹",
+    "login": "Tomoki-Saito",
+    "avatar": "https://avatars.githubusercontent.com/u/53966963?u=e8ee0900961b7ed3bb1e58b24bb383aea1b8c5e6&v=4",
+    "amount": -1,
+    "link": "https://github.com/Tomoki-Saito",
+    "org": false
+  },
+  {
+    "name": "Mikihiro SUDA",
+    "login": "sudame",
+    "avatar": "https://avatars.githubusercontent.com/u/6907421?u=8147b8173bedb115b2e95ad22044c36e64c660fa&v=4",
+    "amount": -1,
+    "link": "https://github.com/sudame",
     "org": false
   },
   {
