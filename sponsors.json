@@ -16,30 +16,6 @@
     "org": false
   },
   {
-    "name": "vintersnow",
-    "login": "vintersnow",
-    "avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
-    "amount": 15,
-    "link": "https://github.com/vintersnow",
-    "org": false
-  },
-  {
-    "name": "mogura",
-    "login": "mgr-kb",
-    "avatar": "https://avatars.githubusercontent.com/u/22042083?u=6c82256ba03fd9605c971610da7b9862e2425407&v=4",
-    "amount": 10,
-    "link": "https://github.com/mgr-kb",
-    "org": false
-  },
-  {
-    "name": "kiyono",
-    "login": "kiyono",
-    "avatar": "https://avatars.githubusercontent.com/u/2948620?u=32e895fbc7e959da863413737f665ddeec9cf447&v=4",
-    "amount": 10,
-    "link": "https://github.com/kiyono",
-    "org": false
-  },
-  {
     "name": "Satoshi Terasaki",
     "login": "terasakisatoshi",
     "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
@@ -93,6 +69,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/161468434?u=5bc0876085118658b7c3d67a670f103c82fa0d5c&v=4",
     "amount": 4,
     "link": "https://github.com/tomiyamaluca",
+    "org": false
+  },
+  {
+    "name": "vintersnow",
+    "login": "vintersnow",
+    "avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
+    "amount": 4,
+    "link": "https://github.com/vintersnow",
     "org": false
   },
   {
@@ -160,14 +144,6 @@
     "org": false
   },
   {
-    "name": "suzuki86",
-    "login": "suzuki86",
-    "avatar": "https://avatars.githubusercontent.com/u/6505720?u=75c054880c73efa6a869c0396706bb653f07ae1f&v=4",
-    "amount": 2,
-    "link": "https://github.com/suzuki86",
-    "org": false
-  },
-  {
     "name": "Tomáš Šůstek",
     "login": "frogggias",
     "avatar": "https://avatars.githubusercontent.com/u/2185655?u=f22aea7be6278d79d2d98773786c10bdb4911017&v=4",
@@ -192,11 +168,35 @@
     "org": false
   },
   {
+    "name": "mogura",
+    "login": "mgr-kb",
+    "avatar": "https://avatars.githubusercontent.com/u/22042083?u=6c82256ba03fd9605c971610da7b9862e2425407&v=4",
+    "amount": -1,
+    "link": "https://github.com/mgr-kb",
+    "org": false
+  },
+  {
+    "name": "kiyono",
+    "login": "kiyono",
+    "avatar": "https://avatars.githubusercontent.com/u/2948620?u=32e895fbc7e959da863413737f665ddeec9cf447&v=4",
+    "amount": -1,
+    "link": "https://github.com/kiyono",
+    "org": false
+  },
+  {
     "name": "John Shelburne",
     "login": "thecatfix",
     "avatar": "https://avatars.githubusercontent.com/u/55940700?u=000e9ac0977719a0283dc01745fd9906185c490a&v=4",
     "amount": -1,
     "link": "https://github.com/thecatfix",
+    "org": false
+  },
+  {
+    "name": "suzuki86",
+    "login": "suzuki86",
+    "avatar": "https://avatars.githubusercontent.com/u/6505720?u=75c054880c73efa6a869c0396706bb653f07ae1f&v=4",
+    "amount": -1,
+    "link": "https://github.com/suzuki86",
     "org": false
   },
   {
