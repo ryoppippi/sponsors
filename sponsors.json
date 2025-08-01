@@ -8,14 +8,6 @@
     "org": false
   },
   {
-    "name": "Murata Hideki",
-    "login": "currypurin",
-    "avatar": "https://avatars.githubusercontent.com/u/24523856?u=bb3afe43cb8e1a4d7d1de05ebf3780bb2d12fd5f&v=4",
-    "amount": 16,
-    "link": "https://github.com/currypurin",
-    "org": false
-  },
-  {
     "name": "Satoshi Terasaki",
     "login": "terasakisatoshi",
     "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
@@ -72,14 +64,6 @@
     "org": false
   },
   {
-    "name": "vintersnow",
-    "login": "vintersnow",
-    "avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
-    "amount": 4,
-    "link": "https://github.com/vintersnow",
-    "org": false
-  },
-  {
     "name": "Yusuke Saito",
     "login": "ysaito8015",
     "avatar": "https://avatars.githubusercontent.com/u/3502978?u=ca98bf67f04d67080df0feeaa6f007fad51d273f&v=4",
@@ -101,14 +85,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/38171341?u=dafe09fc7970eea9b45bdeaa8fdffcd596e54d5d&v=4",
     "amount": 4,
     "link": "https://github.com/s4yuba",
-    "org": false
-  },
-  {
-    "name": "Reiki Hattori",
-    "login": "srvhat09",
-    "avatar": "https://avatars.githubusercontent.com/u/2031552?u=c13c5a56ae5653a53c1d1d6ee6e017507c434dbd&v=4",
-    "amount": 4,
-    "link": "https://github.com/srvhat09",
     "org": false
   },
   {
@@ -184,6 +160,14 @@
     "org": false
   },
   {
+    "name": "vintersnow",
+    "login": "vintersnow",
+    "avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
+    "amount": -1,
+    "link": "https://github.com/vintersnow",
+    "org": false
+  },
+  {
     "name": "John Shelburne",
     "login": "thecatfix",
     "avatar": "https://avatars.githubusercontent.com/u/55940700?u=000e9ac0977719a0283dc01745fd9906185c490a&v=4",
@@ -221,6 +205,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/54880743?u=73a7da432ca5399f63fa04920dda0b180986d8b4&v=4",
     "amount": -1,
     "link": "https://github.com/sergicalsix",
+    "org": false
+  },
+  {
+    "name": "Murata Hideki",
+    "login": "currypurin",
+    "avatar": "https://avatars.githubusercontent.com/u/24523856?u=bb3afe43cb8e1a4d7d1de05ebf3780bb2d12fd5f&v=4",
+    "amount": -1,
+    "link": "https://github.com/currypurin",
+    "org": false
+  },
+  {
+    "name": "Reiki Hattori",
+    "login": "srvhat09",
+    "avatar": "https://avatars.githubusercontent.com/u/2031552?u=c13c5a56ae5653a53c1d1d6ee6e017507c434dbd&v=4",
+    "amount": -1,
+    "link": "https://github.com/srvhat09",
     "org": false
   },
   {
