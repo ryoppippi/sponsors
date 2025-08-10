@@ -48,14 +48,6 @@
     "org": false
   },
   {
-    "name": "John Donmoyer",
-    "login": "donjo",
-    "avatar": "https://avatars.githubusercontent.com/u/776987?u=d4f739afd02938ac25d94451b245dc82ed68459d&v=4",
-    "amount": 5,
-    "link": "https://github.com/donjo",
-    "org": false
-  },
-  {
     "name": "Kazuki Yamada",
     "login": "yamadashy",
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
@@ -157,6 +149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "John Donmoyer",
+    "login": "donjo",
+    "avatar": "https://avatars.githubusercontent.com/u/776987?u=d4f739afd02938ac25d94451b245dc82ed68459d&v=4",
+    "amount": -1,
+    "link": "https://github.com/donjo",
     "org": false
   },
   {
