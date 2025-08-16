@@ -32,14 +32,6 @@
     "org": false
   },
   {
-    "name": "Satoshi Terasaki",
-    "login": "terasakisatoshi",
-    "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
-    "amount": 10,
-    "link": "https://github.com/terasakisatoshi",
-    "org": false
-  },
-  {
     "name": null,
     "login": "mozumasu",
     "avatar": "https://avatars.githubusercontent.com/u/93071448?u=764be251cec06d6127f309ba022ff744996fef3d&v=4",
@@ -253,6 +245,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/26535237?u=07ec30702e6e1e290e082c51efb25abda83a3487&v=4",
     "amount": -1,
     "link": "https://github.com/schroneko",
+    "org": false
+  },
+  {
+    "name": "Satoshi Terasaki",
+    "login": "terasakisatoshi",
+    "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
+    "amount": -1,
+    "link": "https://github.com/terasakisatoshi",
     "org": false
   },
   {
