@@ -11,6 +11,6 @@
     "@typescript/native-preview": "^7.0.0-dev.20250816.1"
   },
   "dependencies": {
-    "sponsorkit": "^16.5.0"
+    "sponsorkit": "^17.0.0"
   }
 }
