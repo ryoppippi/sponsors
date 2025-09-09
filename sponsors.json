@@ -16,14 +16,6 @@
     "org": false
   },
   {
-    "name": "生ビール",
-    "login": "wmoto-ai",
-    "avatar": "https://avatars.githubusercontent.com/u/151503669?u=2a5c6f83c4b831070ac97d953e97832bd8016b30&v=4",
-    "amount": 20,
-    "link": "https://github.com/wmoto-ai",
-    "org": false
-  },
-  {
     "name": "motoki317",
     "login": "motoki317",
     "avatar": "https://avatars.githubusercontent.com/u/18257693?u=f539017e33c5c851db7be078d181ea92700e3cef&v=4",
@@ -48,14 +40,6 @@
     "org": true
   },
   {
-    "name": "salala",
-    "login": "salala01",
-    "avatar": "https://avatars.githubusercontent.com/u/95458917?u=5936f92ed5617ba148fb178dac8d38192ce9c4e8&v=4",
-    "amount": 10,
-    "link": "https://github.com/salala01",
-    "org": false
-  },
-  {
     "name": null,
     "login": "mozumasu",
     "avatar": "https://avatars.githubusercontent.com/u/93071448?u=764be251cec06d6127f309ba022ff744996fef3d&v=4",
@@ -77,6 +61,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
     "amount": 5,
     "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": "生ビール",
+    "login": "wmoto-ai",
+    "avatar": "https://avatars.githubusercontent.com/u/151503669?u=2a5c6f83c4b831070ac97d953e97832bd8016b30&v=4",
+    "amount": 4,
+    "link": "https://github.com/wmoto-ai",
     "org": false
   },
   {
@@ -157,6 +149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "salala",
+    "login": "salala01",
+    "avatar": "https://avatars.githubusercontent.com/u/95458917?u=5936f92ed5617ba148fb178dac8d38192ce9c4e8&v=4",
+    "amount": -1,
+    "link": "https://github.com/salala01",
     "org": false
   },
   {
