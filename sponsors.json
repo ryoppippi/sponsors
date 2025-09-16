@@ -48,14 +48,6 @@
     "org": false
   },
   {
-    "name": "株式会社 レモンシャーク",
-    "login": "lemonshark-jp",
-    "avatar": "https://avatars.githubusercontent.com/u/74974159?v=4",
-    "amount": 10,
-    "link": "https://github.com/lemonshark-jp",
-    "org": true
-  },
-  {
     "name": null,
     "login": "mozumasu",
     "avatar": "https://avatars.githubusercontent.com/u/93071448?u=764be251cec06d6127f309ba022ff744996fef3d&v=4",
@@ -174,6 +166,14 @@
     "amount": 1,
     "link": "https://github.com/matsu7874",
     "org": false
+  },
+  {
+    "name": "株式会社 レモンシャーク",
+    "login": "lemonshark-jp",
+    "avatar": "https://avatars.githubusercontent.com/u/74974159?v=4",
+    "amount": -1,
+    "link": "https://github.com/lemonshark-jp",
+    "org": true
   },
   {
     "name": "salala",
