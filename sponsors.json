@@ -72,6 +72,14 @@
     "org": false
   },
   {
+    "name": "skanehira",
+    "login": "skanehira",
+    "avatar": "https://avatars.githubusercontent.com/u/7888591?u=1b66982841f0e773d24b464b104d7aac13c9d7d0&v=4",
+    "amount": 5,
+    "link": "https://github.com/skanehira",
+    "org": false
+  },
+  {
     "name": "mattn",
     "login": "mattn",
     "avatar": "https://avatars.githubusercontent.com/u/10111?u=4fb5caa72429300200740387758d9905611ab377&v=4",
@@ -93,6 +101,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
     "amount": 5,
     "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": "Takashi Fujita",
+    "login": "tgfjt",
+    "avatar": "https://avatars.githubusercontent.com/u/2628239?u=cc4cb28032ce0f9447a3768e869fc7e4e9747608&v=4",
+    "amount": 4,
+    "link": "https://github.com/tgfjt",
     "org": false
   },
   {
