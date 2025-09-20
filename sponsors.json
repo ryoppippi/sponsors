@@ -48,14 +48,6 @@
     "org": false
   },
   {
-    "name": "Kaido Iwamoto",
-    "login": "odiak",
-    "avatar": "https://avatars.githubusercontent.com/u/251857?u=355d7b3c4d0251fb8fb1558232cf3bf9b384b02f&v=4",
-    "amount": 10,
-    "link": "https://github.com/odiak",
-    "org": false
-  },
-  {
     "name": null,
     "login": "mozumasu",
     "avatar": "https://avatars.githubusercontent.com/u/93071448?u=764be251cec06d6127f309ba022ff744996fef3d&v=4",
@@ -197,6 +189,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "Kaido Iwamoto",
+    "login": "odiak",
+    "avatar": "https://avatars.githubusercontent.com/u/251857?u=355d7b3c4d0251fb8fb1558232cf3bf9b384b02f&v=4",
+    "amount": -1,
+    "link": "https://github.com/odiak",
     "org": false
   },
   {
