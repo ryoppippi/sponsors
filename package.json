@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@types/bun": "latest",
-    "@typescript/native-preview": "^7.0.0-dev.20250923.1"
+    "@typescript/native-preview": "^7.0.0-dev.20250924.1"
   },
   "dependencies": {
     "sponsorkit": "^17.0.0"
