@@ -16,14 +16,6 @@
     "org": false
   },
   {
-    "name": "Taylor A. Murphy",
-    "login": "tayloramurphy",
-    "avatar": "https://avatars.githubusercontent.com/u/5394188?u=a88f2441ab257c0e6cd7cfdc1c9b98f5fe7ecec4&v=4",
-    "amount": 32,
-    "link": "https://github.com/tayloramurphy",
-    "org": false
-  },
-  {
     "name": "zazen_inu",
     "login": "zazen-inu",
     "avatar": "https://avatars.githubusercontent.com/u/206775951?u=decf519f3a1651aff9fad9edd04c56906c60f6ae&v=4",
@@ -136,11 +128,11 @@
     "org": false
   },
   {
-    "name": "生ビール",
-    "login": "wmoto-ai",
-    "avatar": "https://avatars.githubusercontent.com/u/151503669?u=2a5c6f83c4b831070ac97d953e97832bd8016b30&v=4",
+    "name": "Taylor A. Murphy",
+    "login": "tayloramurphy",
+    "avatar": "https://avatars.githubusercontent.com/u/5394188?u=a88f2441ab257c0e6cd7cfdc1c9b98f5fe7ecec4&v=4",
     "amount": 4,
-    "link": "https://github.com/wmoto-ai",
+    "link": "https://github.com/tayloramurphy",
     "org": false
   },
   {
@@ -230,6 +222,14 @@
     "amount": -1,
     "link": "https://github.com/lemonshark-jp",
     "org": true
+  },
+  {
+    "name": "生ビール",
+    "login": "wmoto-ai",
+    "avatar": "https://avatars.githubusercontent.com/u/151503669?u=2a5c6f83c4b831070ac97d953e97832bd8016b30&v=4",
+    "amount": -1,
+    "link": "https://github.com/wmoto-ai",
+    "org": false
   },
   {
     "name": "salala",
