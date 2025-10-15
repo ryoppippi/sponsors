@@ -96,14 +96,6 @@
     "org": false
   },
   {
-    "name": "Hiroaki Mitsuyoshi",
-    "login": "flowernotfound",
-    "avatar": "https://avatars.githubusercontent.com/u/131056197?u=a5fde591625ac4c28982d44ff05083948b9f2903&v=4",
-    "amount": 5,
-    "link": "https://github.com/flowernotfound",
-    "org": false
-  },
-  {
     "name": "Kazuki Yamada",
     "login": "yamadashy",
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
@@ -213,6 +205,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "Hiroaki Mitsuyoshi",
+    "login": "flowernotfound",
+    "avatar": "https://avatars.githubusercontent.com/u/131056197?u=a5fde591625ac4c28982d44ff05083948b9f2903&v=4",
+    "amount": -1,
+    "link": "https://github.com/flowernotfound",
     "org": false
   },
   {
