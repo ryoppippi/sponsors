@@ -40,14 +40,6 @@
     "org": false
   },
   {
-    "name": "SAKAMOTO_Yasuaki",
-    "login": "yasunogithub",
-    "avatar": "https://avatars.githubusercontent.com/u/29519029?u=a0765ca57028b0761c8d6e315d52bc77ab97d75e&v=4",
-    "amount": 15,
-    "link": "https://github.com/yasunogithub",
-    "org": false
-  },
-  {
     "name": "たつくま",
     "login": "tatukuma",
     "avatar": "https://avatars.githubusercontent.com/u/211230378?u=62542e97624fc137e1587e93745f2f8ae501f5a6&v=4",
@@ -88,22 +80,6 @@
     "org": false
   },
   {
-    "name": "skanehira",
-    "login": "skanehira",
-    "avatar": "https://avatars.githubusercontent.com/u/7888591?u=3a95d4f5af39678b4f029f8b3bc1ea60478382ca&v=4",
-    "amount": 5,
-    "link": "https://github.com/skanehira",
-    "org": false
-  },
-  {
-    "name": "mattn",
-    "login": "mattn",
-    "avatar": "https://avatars.githubusercontent.com/u/10111?u=4fb5caa72429300200740387758d9905611ab377&v=4",
-    "amount": 5,
-    "link": "https://github.com/mattn",
-    "org": false
-  },
-  {
     "name": "Kazuki Yamada",
     "login": "yamadashy",
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
@@ -125,6 +101,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/2628239?u=cc4cb28032ce0f9447a3768e869fc7e4e9747608&v=4",
     "amount": 4,
     "link": "https://github.com/tgfjt",
+    "org": false
+  },
+  {
+    "name": "SAKAMOTO_Yasuaki",
+    "login": "yasunogithub",
+    "avatar": "https://avatars.githubusercontent.com/u/29519029?u=a0765ca57028b0761c8d6e315d52bc77ab97d75e&v=4",
+    "amount": 4,
+    "link": "https://github.com/yasunogithub",
     "org": false
   },
   {
@@ -213,6 +197,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "skanehira",
+    "login": "skanehira",
+    "avatar": "https://avatars.githubusercontent.com/u/7888591?u=3a95d4f5af39678b4f029f8b3bc1ea60478382ca&v=4",
+    "amount": -1,
+    "link": "https://github.com/skanehira",
+    "org": false
+  },
+  {
+    "name": "mattn",
+    "login": "mattn",
+    "avatar": "https://avatars.githubusercontent.com/u/10111?u=4fb5caa72429300200740387758d9905611ab377&v=4",
+    "amount": -1,
+    "link": "https://github.com/mattn",
     "org": false
   },
   {
