@@ -24,27 +24,11 @@
     "org": false
   },
   {
-    "name": "zazen_inu",
-    "login": "zazen-inu",
-    "avatar": "https://avatars.githubusercontent.com/u/206775951?u=decf519f3a1651aff9fad9edd04c56906c60f6ae&v=4",
-    "amount": 20,
-    "link": "https://github.com/zazen-inu",
-    "org": false
-  },
-  {
     "name": "motoki317",
     "login": "motoki317",
     "avatar": "https://avatars.githubusercontent.com/u/18257693?u=f539017e33c5c851db7be078d181ea92700e3cef&v=4",
     "amount": 16,
     "link": "https://github.com/motoki317",
-    "org": false
-  },
-  {
-    "name": "たつくま",
-    "login": "tatukuma",
-    "avatar": "https://avatars.githubusercontent.com/u/211230378?u=62542e97624fc137e1587e93745f2f8ae501f5a6&v=4",
-    "amount": 10,
-    "link": "https://github.com/tatukuma",
     "org": false
   },
   {
@@ -85,6 +69,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
     "amount": 5,
     "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": "zazen_inu",
+    "login": "zazen-inu",
+    "avatar": "https://avatars.githubusercontent.com/u/206775951?u=decf519f3a1651aff9fad9edd04c56906c60f6ae&v=4",
+    "amount": 4,
+    "link": "https://github.com/zazen-inu",
     "org": false
   },
   {
@@ -197,6 +189,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": "たつくま",
+    "login": "tatukuma",
+    "avatar": "https://avatars.githubusercontent.com/u/211230378?u=62542e97624fc137e1587e93745f2f8ae501f5a6&v=4",
+    "amount": -1,
+    "link": "https://github.com/tatukuma",
     "org": false
   },
   {
