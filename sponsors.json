@@ -40,14 +40,6 @@
     "org": false
   },
   {
-    "name": "Doğu Deniz Uğur",
-    "login": "DoguD",
-    "avatar": "https://avatars.githubusercontent.com/u/20525079?u=629ad572be15f0d866583a8a54110c943a9fdce9&v=4",
-    "amount": 8,
-    "link": "https://github.com/DoguD",
-    "org": false
-  },
-  {
     "name": null,
     "login": "mozumasu",
     "avatar": "https://avatars.githubusercontent.com/u/93071448?u=764be251cec06d6127f309ba022ff744996fef3d&v=4",
@@ -293,6 +285,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
     "amount": -1,
     "link": "https://github.com/vintersnow",
+    "org": false
+  },
+  {
+    "name": "Doğu Deniz Uğur",
+    "login": "DoguD",
+    "avatar": "https://avatars.githubusercontent.com/u/20525079?u=629ad572be15f0d866583a8a54110c943a9fdce9&v=4",
+    "amount": -1,
+    "link": "https://github.com/DoguD",
     "org": false
   },
   {
