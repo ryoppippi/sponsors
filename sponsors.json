@@ -72,14 +72,6 @@
     "org": false
   },
   {
-    "name": "Aidan",
-    "login": "ihatenodejs",
-    "avatar": "https://avatars.githubusercontent.com/u/178358868?u=3fb5d8bd5550beb4d6e26e4c19385b281904953e&v=4",
-    "amount": 4,
-    "link": "https://github.com/ihatenodejs",
-    "org": false
-  },
-  {
     "name": "Kazuhiro Kobayashi",
     "login": "kzhrk",
     "avatar": "https://avatars.githubusercontent.com/u/548508?u=68d40da0a00fd0368a3b9134c1026ebbc9aff410&v=4",
@@ -173,6 +165,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/206775951?u=decf519f3a1651aff9fad9edd04c56906c60f6ae&v=4",
     "amount": -1,
     "link": "https://github.com/zazen-inu",
+    "org": false
+  },
+  {
+    "name": "Aidan",
+    "login": "ihatenodejs",
+    "avatar": "https://avatars.githubusercontent.com/u/178358868?u=3fb5d8bd5550beb4d6e26e4c19385b281904953e&v=4",
+    "amount": -1,
+    "link": "https://github.com/ihatenodejs",
     "org": false
   },
   {
