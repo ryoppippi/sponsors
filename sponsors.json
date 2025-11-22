@@ -32,14 +32,6 @@
     "org": false
   },
   {
-    "name": "motoki317",
-    "login": "motoki317",
-    "avatar": "https://avatars.githubusercontent.com/u/18257693?u=f539017e33c5c851db7be078d181ea92700e3cef&v=4",
-    "amount": 16,
-    "link": "https://github.com/motoki317",
-    "org": false
-  },
-  {
     "name": "Takashi Fujita",
     "login": "tgfjt",
     "avatar": "https://avatars.githubusercontent.com/u/2628239?u=cc4cb28032ce0f9447a3768e869fc7e4e9747608&v=4",
@@ -109,6 +101,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/38171341?u=67d1ad3b811b8641ff839e0581d4a1959f8ecc40&v=4",
     "amount": 4,
     "link": "https://github.com/oikon48",
+    "org": false
+  },
+  {
+    "name": "motoki317",
+    "login": "motoki317",
+    "avatar": "https://avatars.githubusercontent.com/u/18257693?u=f539017e33c5c851db7be078d181ea92700e3cef&v=4",
+    "amount": 4,
+    "link": "https://github.com/motoki317",
     "org": false
   },
   {
