@@ -72,14 +72,6 @@
     "org": false
   },
   {
-    "name": "Kazuhiro Kobayashi",
-    "login": "kzhrk",
-    "avatar": "https://avatars.githubusercontent.com/u/548508?u=68d40da0a00fd0368a3b9134c1026ebbc9aff410&v=4",
-    "amount": 4,
-    "link": "https://github.com/kzhrk",
-    "org": false
-  },
-  {
     "name": "兎耳山ルカ",
     "login": "tomiyamaluca",
     "avatar": "https://avatars.githubusercontent.com/u/161468434?u=5bc0876085118658b7c3d67a670f103c82fa0d5c&v=4",
@@ -213,6 +205,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/131056197?u=a5fde591625ac4c28982d44ff05083948b9f2903&v=4",
     "amount": -1,
     "link": "https://github.com/flowernotfound",
+    "org": false
+  },
+  {
+    "name": "Kazuhiro Kobayashi",
+    "login": "kzhrk",
+    "avatar": "https://avatars.githubusercontent.com/u/548508?u=68d40da0a00fd0368a3b9134c1026ebbc9aff410&v=4",
+    "amount": -1,
+    "link": "https://github.com/kzhrk",
     "org": false
   },
   {
