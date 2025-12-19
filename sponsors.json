@@ -24,14 +24,6 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "humanwritten",
-    "avatar": "https://avatars.githubusercontent.com/u/206531610?v=4",
-    "amount": 20,
-    "link": "https://github.com/humanwritten",
-    "org": false
-  },
-  {
     "name": "KAY",
     "login": "k1-c",
     "avatar": "https://avatars.githubusercontent.com/u/48673329?u=479eef165adeb6f9dfebcdae495c55ad7e187cee&v=4",
@@ -61,6 +53,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
     "amount": 5,
     "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "humanwritten",
+    "avatar": "https://avatars.githubusercontent.com/u/206531610?v=4",
+    "amount": 4,
+    "link": "https://github.com/humanwritten",
     "org": false
   },
   {
