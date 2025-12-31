@@ -9,7 +9,7 @@
       },
       "devDependencies": {
         "@types/bun": "latest",
-        "@typescript/native-preview": "^7.0.0-dev.20251227.1",
+        "@typescript/native-preview": "^7.0.0-dev.20251228.1",
       },
     },
   },
