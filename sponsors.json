@@ -16,14 +16,6 @@
     "org": false
   },
   {
-    "name": "kazuya kawaguchi",
-    "login": "kazupon",
-    "avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
-    "amount": 32,
-    "link": "https://github.com/kazupon",
-    "org": false
-  },
-  {
     "name": "KAY",
     "login": "k1-c",
     "avatar": "https://avatars.githubusercontent.com/u/48673329?u=479eef165adeb6f9dfebcdae495c55ad7e187cee&v=4",
@@ -56,11 +48,11 @@
     "org": false
   },
   {
-    "name": null,
-    "login": "humanwritten",
-    "avatar": "https://avatars.githubusercontent.com/u/206531610?u=77c84759125e22f5c4a34a6d75553784d7b7ab34&v=4",
+    "name": "kazuya kawaguchi",
+    "login": "kazupon",
+    "avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
     "amount": 4,
-    "link": "https://github.com/humanwritten",
+    "link": "https://github.com/kazupon",
     "org": false
   },
   {
@@ -141,6 +133,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
     "amount": 1,
     "link": "https://github.com/matsu7874",
+    "org": false
+  },
+  {
+    "name": null,
+    "login": "humanwritten",
+    "avatar": "https://avatars.githubusercontent.com/u/206531610?u=77c84759125e22f5c4a34a6d75553784d7b7ab34&v=4",
+    "amount": -1,
+    "link": "https://github.com/humanwritten",
     "org": false
   },
   {
