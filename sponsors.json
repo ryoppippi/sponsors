@@ -42,9 +42,17 @@
   {
     "name": "Kazuki Yamada",
     "login": "yamadashy",
-    "avatar": "https://avatars.githubusercontent.com/u/5019072?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/5019072?u=c0c70e9c760704066479eac2f41db402691e608d&v=4",
     "amount": 5,
     "link": "https://github.com/yamadashy",
+    "org": false
+  },
+  {
+    "name": "Kyure_A",
+    "login": "Kyure-A",
+    "avatar": "https://avatars.githubusercontent.com/u/49436968?u=2bd974e60d54693e89708e351842262245025e9b&v=4",
+    "amount": 4,
+    "link": "https://github.com/Kyure-A",
     "org": false
   },
   {
