@@ -1,3 +1,4 @@
+// spellchecker:off
 import { defineConfig, tierPresets } from 'sponsorkit';
 
 export default defineConfig({
@@ -103,3 +104,4 @@ export default defineConfig({
 		);
 	},
 });
+// spellchecker:on
