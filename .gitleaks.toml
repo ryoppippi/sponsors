@@ -3,4 +3,4 @@ useDefault = true
 
 [allowlist]
 description = "Global allowlist"
-paths = ['''bun\.lock$''']
+paths = ['''pnpm-lock\.yaml$''']

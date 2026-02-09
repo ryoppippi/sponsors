@@ -4,7 +4,8 @@ _: {
     {
       devShells.default = pkgs.mkShell {
         packages = with pkgs; [
-          bun
+          nodejs_24
+          pnpm
           typescript-go
           oxlint
           oxfmt
@@ -14,7 +15,7 @@ _: {
         ];
         shellHook = ''
           ${config.pre-commit.installationScript}
-          bun ci
+          pnpm install --frozen-lockfile
         '';
       };
     };

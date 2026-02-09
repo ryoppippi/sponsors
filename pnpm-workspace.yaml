@@ -1,0 +1,14 @@
+enablePrePostScripts: true
+
+minimumReleaseAge: 2880
+
+# Security settings for supply chain attack prevention
+strictDepBuilds: true
+blockExoticSubdeps: true
+trustPolicy: no-downgrade
+
+# Explicitly allow build scripts for packages that require them
+allowBuilds:
+  sharp: true
+
+shellEmulator: true
