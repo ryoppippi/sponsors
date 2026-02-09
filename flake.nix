@@ -107,7 +107,7 @@
             ];
             shellHook = ''
               ${pre-commit-check.shellHook}
-              bun install
+              bun ci
             '';
           };
 
