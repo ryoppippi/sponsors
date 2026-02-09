@@ -2,7 +2,7 @@ _: {
   perSystem =
     { config, pkgs, ... }:
     {
-      devShells.default = pkgs.mkShell {
+      devShells.default = pkgs.mkShellNoCC {
         packages = with pkgs; [
           nodejs_24
           pnpm
