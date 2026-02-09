@@ -4,7 +4,8 @@ Automated GitHub sponsor showcase using SponsorKit. Fetches sponsor data and gen
 
 ## Tech Stack
 
-- **Runtime**: Bun
+- **Runtime**: Node.js
+- **Package Manager**: pnpm
 - **Language**: TypeScript (strict mode, bundler resolution)
 - **Main Library**: SponsorKit
 - **Linting**: oxlint (strict, type-aware)
@@ -16,11 +17,11 @@ Automated GitHub sponsor showcase using SponsorKit. Fetches sponsor data and gen
 
 ```bash
 nix develop                  # Enter dev shell
-bun run update               # Generate sponsor visualisations
-bun run typecheck             # Type check with tsgo
-bun run lint                  # Lint with oxlint
-bun run format                # Format with oxfmt
-bun run format:check          # Check formatting
+pnpm run update               # Generate sponsor visualisations
+pnpm run typecheck            # Type check with tsgo
+pnpm run lint                 # Lint with oxlint
+pnpm run format               # Format with oxfmt
+pnpm run format:check         # Check formatting
 nix flake check               # Run all Nix checks (treefmt, pre-commit, typos, gitleaks)
 nix run                       # Run the default app (install deps + update sponsors)
 ```

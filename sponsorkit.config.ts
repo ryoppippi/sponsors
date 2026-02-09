@@ -1,4 +1,5 @@
 // spellchecker:off
+import { writeFile } from 'node:fs/promises';
 import { defineConfig, tierPresets } from 'sponsorkit';
 
 export default defineConfig({
@@ -82,7 +83,7 @@ export default defineConfig({
 		},
 	],
 	async onSponsorsReady(sponsors) {
-		await Bun.write(
+		await writeFile(
 			'sponsors.json',
 			JSON.stringify(
 				sponsors

@@ -6,8 +6,9 @@ _: {
         type = "app";
         program = toString (
           pkgs.writeShellScript "generate-sponsors" ''
-            ${pkgs.bun}/bin/bun ci
-            ${pkgs.bun}/bin/bun run update
+            export PATH="${pkgs.pnpm}/bin:${pkgs.nodejs_24}/bin:$PATH"
+            pnpm install --frozen-lockfile
+            pnpm run update
           ''
         );
       };
