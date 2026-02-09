@@ -1,16 +1,18 @@
 {
-  "name": "sponsor",
-  "type": "module",
-  "private": true,
-  "scripts": {
-    "update": "bun run -b sponsorkit",
-    "typecheck": "tsgo --noEmit"
-  },
-  "devDependencies": {
-    "@types/bun": "latest",
-    "@typescript/native-preview": "^7.0.0-dev.20260206.1"
-  },
-  "dependencies": {
-    "sponsorkit": "^17.0.0"
-  }
+	"name": "@ryoppippi/sponsor",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"update": "bun run -b sponsorkit",
+		"typecheck": "tsgo --noEmit",
+		"lint": "oxlint --max-warnings=0 --type-aware .",
+		"format": "oxfmt .",
+		"format:check": "oxfmt --check ."
+	},
+	"dependencies": {
+		"sponsorkit": "^17.0.0"
+	},
+	"devDependencies": {
+		"@types/bun": "1.3.8"
+	}
 }

@@ -1,14 +1,13 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
-	"vulnerabilityAlerts": {
-		"labels": [
-			"security"
-		]
+	"extends": ["config:recommended", "schedule:weekly", "group:allNonMajor"],
+	"nix": {
+		"enabled": true
 	},
-	"labels": [
-		"dependencies",
-		"renovate"
-	],
+	"vulnerabilityAlerts": {
+		"labels": ["security"]
+	},
+	"labels": ["dependencies", "renovate"],
 	"rangeStrategy": "bump",
 	"lockFileMaintenance": {
 		"enabled": true

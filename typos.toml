@@ -1,0 +1,12 @@
+[default]
+locale = 'en-gb'
+extend-ignore-re = [
+	"(?s)(#|//)\\s*spellchecker:off[\\s\\S]*?(#|//)\\s*spellchecker:on",
+	"(?s)<!--\\s*spellchecker:off\\s*-->[\\s\\S]*?<!--\\s*spellchecker:on\\s*-->",
+	"(?Rm)^.*(#|//)\\s*spellchecker:disable-line$",
+	"(?m)^.*<!--\\s*spellchecker:disable-line\\s*-->.*$",
+	"(#|//)\\s*spellchecker:ignore-next-line\\n.*",
+]
+
+[files]
+extend-exclude = ['*.svg', '*.png', '*.json']
