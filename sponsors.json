@@ -8,14 +8,6 @@
     "org": true
   },
   {
-    "name": "Greg Baugues",
-    "login": "GregBaugues",
-    "avatar": "https://avatars.githubusercontent.com/u/1013128?u=a0487a54e00551c19a120c62a7e65f224c70e7dd&v=4",
-    "amount": 100,
-    "link": "https://github.com/GregBaugues",
-    "org": false
-  },
-  {
     "name": null,
     "login": "nyapan-mohy",
     "avatar": "https://avatars.githubusercontent.com/u/219930266?u=ee1134d510105347314fb424b7b9582ffaef6a37&v=4",
@@ -293,6 +285,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/91118218?u=54fe481eaa7b0a9159d2ae9871968eaf0e3e350b&v=4",
     "amount": -1,
     "link": "https://github.com/rassi0429",
+    "org": false
+  },
+  {
+    "name": "Greg Baugues",
+    "login": "GregBaugues",
+    "avatar": "https://avatars.githubusercontent.com/u/1013128?u=a0487a54e00551c19a120c62a7e65f224c70e7dd&v=4",
+    "amount": -1,
+    "link": "https://github.com/GregBaugues",
     "org": false
   },
   {
