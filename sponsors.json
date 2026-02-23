@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "Robin Ebers",
+    "login": "robinebers",
+    "avatar": "https://avatars.githubusercontent.com/u/16515780?u=5a6b310c397d5a4d88037320e6a2b75ab9701093&v=4",
+    "amount": 100,
+    "link": "https://github.com/robinebers",
+    "org": false
+  },
+  {
     "name": null,
     "login": "nyapan-mohy",
     "avatar": "https://avatars.githubusercontent.com/u/219930266?u=ee1134d510105347314fb424b7b9582ffaef6a37&v=4",
