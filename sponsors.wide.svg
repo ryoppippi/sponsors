@@ -15,7 +15,7 @@ text {
   font-size: 20px;
 }
 </style>
-<text x="500" y="40" text-anchor="middle" class="sponsorkit-tier-title">😱 Sponsors</text><a href="https://toyokumo.co.jp" class="sponsorkit-link" target="_blank" id="toyokumo">
+<text x="500" y="40" text-anchor="middle" class="sponsorkit-tier-title">🎉 Sponsors</text><a href="https://toyokumo.co.jp" class="sponsorkit-link" target="_blank" id="toyokumo">
   <text x="500" y="173" text-anchor="middle" class="sponsorkit-name" fill="currentColor">TOYOKUMO</text>
   
   <clipPath id="cefde07">
