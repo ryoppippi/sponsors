@@ -128,14 +128,6 @@
     "org": false
   },
   {
-    "name": "ニケちゃん / nikechan",
-    "login": "tegnike",
-    "avatar": "https://avatars.githubusercontent.com/u/35606144?u=9fc77c0fed7df14afd0aaf8a77bdcb73e5c94fdd&v=4",
-    "amount": 4,
-    "link": "https://github.com/tegnike",
-    "org": false
-  },
-  {
     "name": "harumeri",
     "login": "harumeri",
     "avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
@@ -429,6 +421,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
     "amount": -1,
     "link": "https://github.com/terasakisatoshi",
+    "org": false
+  },
+  {
+    "name": "ニケちゃん / nikechan",
+    "login": "tegnike",
+    "avatar": "https://avatars.githubusercontent.com/u/35606144?u=9fc77c0fed7df14afd0aaf8a77bdcb73e5c94fdd&v=4",
+    "amount": -1,
+    "link": "https://github.com/tegnike",
     "org": false
   },
   {
