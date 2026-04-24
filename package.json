@@ -10,9 +10,9 @@
 		"format:check": "oxfmt --check ."
 	},
 	"dependencies": {
-		"sponsorkit": "^17.0.0"
+		"sponsorkit": "^17.1.0"
 	},
 	"devDependencies": {
-		"@types/node": "^25.2.2"
+		"@types/node": "^25.6.0"
 	}
 }
