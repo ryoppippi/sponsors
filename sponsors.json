@@ -72,14 +72,6 @@
     "org": false
   },
   {
-    "name": "Kyure_A",
-    "login": "Kyure-A",
-    "avatar": "https://avatars.githubusercontent.com/u/49436968?u=2bd974e60d54693e89708e351842262245025e9b&v=4",
-    "amount": 4,
-    "link": "https://github.com/Kyure-A",
-    "org": false
-  },
-  {
     "name": "兎耳山ルカ",
     "login": "tomiyamaluca",
     "avatar": "https://avatars.githubusercontent.com/u/161468434?u=5bc0876085118658b7c3d67a670f103c82fa0d5c&v=4",
@@ -157,6 +149,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/16515780?u=9534ab3b9156b4ad9fd600b09b97805e5a60719b&v=4",
     "amount": -1,
     "link": "https://github.com/robinebers",
+    "org": false
+  },
+  {
+    "name": "Kyure_A",
+    "login": "Kyure-A",
+    "avatar": "https://avatars.githubusercontent.com/u/49436968?u=2bd974e60d54693e89708e351842262245025e9b&v=4",
+    "amount": -1,
+    "link": "https://github.com/Kyure-A",
     "org": false
   },
   {
