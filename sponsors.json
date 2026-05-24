@@ -88,14 +88,6 @@
     "org": false
   },
   {
-    "name": "Yusuke Saito",
-    "login": "ysaito8015",
-    "avatar": "https://avatars.githubusercontent.com/u/3502978?u=ca98bf67f04d67080df0feeaa6f007fad51d273f&v=4",
-    "amount": 4,
-    "link": "https://github.com/ysaito8015",
-    "org": false
-  },
-  {
     "name": "Oikon",
     "login": "oikon48",
     "avatar": "https://avatars.githubusercontent.com/u/38171341?u=67d1ad3b811b8641ff839e0581d4a1959f8ecc40&v=4",
@@ -349,6 +341,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
     "amount": -1,
     "link": "https://github.com/vintersnow",
+    "org": false
+  },
+  {
+    "name": "Yusuke Saito",
+    "login": "ysaito8015",
+    "avatar": "https://avatars.githubusercontent.com/u/3502978?u=ca98bf67f04d67080df0feeaa6f007fad51d273f&v=4",
+    "amount": -1,
+    "link": "https://github.com/ysaito8015",
     "org": false
   },
   {
