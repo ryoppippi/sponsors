@@ -8,6 +8,14 @@
     "org": true
   },
   {
+    "name": "kazuya kawaguchi",
+    "login": "kazupon",
+    "avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
+    "amount": 50,
+    "link": "https://github.com/kazupon",
+    "org": false
+  },
+  {
     "name": "Kei Nakayama",
     "login": "kexi",
     "avatar": "https://avatars.githubusercontent.com/u/350671?u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4",
@@ -157,14 +165,6 @@
     "avatar": "https://avatars.githubusercontent.com/u/49436968?u=2bd974e60d54693e89708e351842262245025e9b&v=4",
     "amount": -1,
     "link": "https://github.com/Kyure-A",
-    "org": false
-  },
-  {
-    "name": "kazuya kawaguchi",
-    "login": "kazupon",
-    "avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
-    "amount": -1,
-    "link": "https://github.com/kazupon",
     "org": false
   },
   {
