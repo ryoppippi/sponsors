@@ -136,6 +136,14 @@
     "org": false
   },
   {
+    "name": "Shane Chambers",
+    "login": "shanec42",
+    "avatar": "https://avatars.githubusercontent.com/u/59856516?u=13e52c2dfec8a6f5104f33b7445f3c4512354d27&v=4",
+    "amount": 1,
+    "link": "https://github.com/shanec42",
+    "org": false
+  },
+  {
     "name": "Tomáš Šůstek",
     "login": "frogggias",
     "avatar": "https://avatars.githubusercontent.com/u/2185655?u=f22aea7be6278d79d2d98773786c10bdb4911017&v=4",
@@ -242,7 +250,7 @@
   {
     "name": "Kazuhiro Kobayashi",
     "login": "kzhrk",
-    "avatar": "https://avatars.githubusercontent.com/u/548508?u=68d40da0a00fd0368a3b9134c1026ebbc9aff410&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/548508?u=ec502316ba818859d20764d7b02cfb606aa01f40&v=4",
     "amount": -1,
     "link": "https://github.com/kzhrk",
     "org": false
