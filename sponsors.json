@@ -1,5 +1,13 @@
 [
   {
+    "name": "Theo Browne",
+    "login": "t3dotgg",
+    "avatar": "https://avatars.githubusercontent.com/u/6751787?u=69a6486b20fc980615e51457f6a5b56103cea295&v=4",
+    "amount": 500,
+    "link": "https://github.com/t3dotgg",
+    "org": false
+  },
+  {
     "name": "TOYOKUMO",
     "login": "toyokumo",
     "avatar": "https://avatars.githubusercontent.com/u/2443340?v=4",
@@ -21,6 +29,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/350671?u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4",
     "amount": 10,
     "link": "https://github.com/kexi",
+    "org": false
+  },
+  {
+    "name": "r-kagaya",
+    "login": "r-kagaya",
+    "avatar": "https://avatars.githubusercontent.com/u/20347995?u=a63425fb86767f70d35adb41f5353508480e70eb&v=4",
+    "amount": 8,
+    "link": "https://github.com/r-kagaya",
     "org": false
   },
   {
