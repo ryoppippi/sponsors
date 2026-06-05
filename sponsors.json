@@ -8,6 +8,14 @@
 		"org": false
 	},
 	{
+		"name": "CodeRabbit",
+		"login": "coderabbitai",
+		"avatar": "https://avatars.githubusercontent.com/u/132028505?v=4",
+		"amount": 100,
+		"link": "https://github.com/coderabbitai",
+		"org": true
+	},
+	{
 		"name": "kazuya kawaguchi",
 		"login": "kazupon",
 		"avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
