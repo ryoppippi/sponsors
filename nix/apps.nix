@@ -18,10 +18,11 @@ _: {
         type = "app";
         program = toString (
           pkgs.writeShellScript "generate-sponsors" ''
-            export PATH="${pkgs.pnpm}/bin:${pkgs.nodejs_24}/bin:$PATH"
+            export PATH="${pkgs.pnpm}/bin:${pkgs.nodejs_24}/bin:${pkgs.oxfmt}/bin:$PATH"
             export FONTCONFIG_FILE="${fontsConf}"
             pnpm install --frozen-lockfile
             pnpm run update
+            pnpm run format
           ''
         );
       };
