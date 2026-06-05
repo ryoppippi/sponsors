@@ -3,9 +3,9 @@
 	"name": "sponsors",
 	"compatibility_date": "2026-06-05",
 	"assets": {
-		"directory": "."
+		"directory": ".",
 	},
 	"vars": {
-		"SKIP_DEPENDENCY_INSTALL": "true"
-	}
+		"SKIP_DEPENDENCY_INSTALL": "true",
+	},
 }
