@@ -1,18 +1,50 @@
 [
 	{
+		"name": "Theo Browne",
+		"login": "t3dotgg",
+		"avatar": "https://avatars.githubusercontent.com/u/6751787?u=69a6486b20fc980615e51457f6a5b56103cea295&v=4",
+		"amount": 500,
+		"link": "https://github.com/t3dotgg",
+		"org": false
+	},
+	{
+		"name": "kazuya kawaguchi",
+		"login": "kazupon",
+		"avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
+		"amount": 50,
+		"link": "https://github.com/kazupon",
+		"org": false
+	},
+	{
 		"name": "TOYOKUMO",
 		"login": "toyokumo",
 		"avatar": "https://avatars.githubusercontent.com/u/2443340?v=4",
-		"amount": 512,
+		"amount": 32,
 		"link": "https://github.com/toyokumo",
 		"org": true
 	},
 	{
-		"name": "Greg Baugues",
-		"login": "GregBaugues",
-		"avatar": "https://avatars.githubusercontent.com/u/1013128?u=a0487a54e00551c19a120c62a7e65f224c70e7dd&v=4",
-		"amount": 100,
-		"link": "https://github.com/GregBaugues",
+		"name": "Satoshi Funayama",
+		"login": "akchan",
+		"avatar": "https://avatars.githubusercontent.com/u/6899199?u=30d268b0db5ab918c7aee9424d278109e65997f3&v=4",
+		"amount": 10,
+		"link": "https://github.com/akchan",
+		"org": false
+	},
+	{
+		"name": "Kei Nakayama",
+		"login": "kexi",
+		"avatar": "https://avatars.githubusercontent.com/u/350671?u=5f1550c21d0609f2c89ef22e46203782e7564d01&v=4",
+		"amount": 10,
+		"link": "https://github.com/kexi",
+		"org": false
+	},
+	{
+		"name": "r-kagaya",
+		"login": "r-kagaya",
+		"avatar": "https://avatars.githubusercontent.com/u/20347995?u=a63425fb86767f70d35adb41f5353508480e70eb&v=4",
+		"amount": 8,
+		"link": "https://github.com/r-kagaya",
 		"org": false
 	},
 	{
@@ -26,7 +58,7 @@
 	{
 		"name": "KAY",
 		"login": "k1-c",
-		"avatar": "https://avatars.githubusercontent.com/u/48673329?u=479eef165adeb6f9dfebcdae495c55ad7e187cee&v=4",
+		"avatar": "https://avatars.githubusercontent.com/u/48673329?u=fbe38a4604bdccc4ca79883487f6a729fceeca85&v=4",
 		"amount": 8,
 		"link": "https://github.com/k1-c",
 		"org": false
@@ -48,6 +80,14 @@
 		"org": false
 	},
 	{
+		"name": "Yuki Ishii",
+		"login": "yuki0418",
+		"avatar": "https://avatars.githubusercontent.com/u/45615348?u=76a14f3785f5cd2a79c0bf3ce7a2f41850e416b8&v=4",
+		"amount": 5,
+		"link": "https://github.com/yuki0418",
+		"org": false
+	},
+	{
 		"name": "Kazuki Yamada",
 		"login": "yamadashy",
 		"avatar": "https://avatars.githubusercontent.com/u/5019072?u=260263b46edf71d9b94c9ab1a1d449f849854c3b&v=4",
@@ -56,11 +96,27 @@
 		"org": false
 	},
 	{
-		"name": "Kyure_A",
-		"login": "Kyure-A",
-		"avatar": "https://avatars.githubusercontent.com/u/49436968?u=2bd974e60d54693e89708e351842262245025e9b&v=4",
+		"name": "tadashi",
+		"login": "tadashis-85",
+		"avatar": "https://avatars.githubusercontent.com/u/39157998?v=4",
 		"amount": 4,
-		"link": "https://github.com/Kyure-A",
+		"link": "https://github.com/tadashis-85",
+		"org": false
+	},
+	{
+		"name": null,
+		"login": "llongmane584",
+		"avatar": "https://avatars.githubusercontent.com/u/46396892?u=26c820a87e298cca8611d48033939a97901ae083&v=4",
+		"amount": 4,
+		"link": "https://github.com/llongmane584",
+		"org": false
+	},
+	{
+		"name": "tomada",
+		"login": "tomada1114",
+		"avatar": "https://avatars.githubusercontent.com/u/68495563?u=4c0a504884d602467161edd2ac3d2e819220f704&v=4",
+		"amount": 4,
+		"link": "https://github.com/tomada1114",
 		"org": false
 	},
 	{
@@ -69,14 +125,6 @@
 		"avatar": "https://avatars.githubusercontent.com/u/161468434?u=5bc0876085118658b7c3d67a670f103c82fa0d5c&v=4",
 		"amount": 4,
 		"link": "https://github.com/tomiyamaluca",
-		"org": false
-	},
-	{
-		"name": "Yusuke Saito",
-		"login": "ysaito8015",
-		"avatar": "https://avatars.githubusercontent.com/u/3502978?u=ca98bf67f04d67080df0feeaa6f007fad51d273f&v=4",
-		"amount": 4,
-		"link": "https://github.com/ysaito8015",
 		"org": false
 	},
 	{
@@ -112,19 +160,19 @@
 		"org": false
 	},
 	{
-		"name": "ニケちゃん / nikechan",
-		"login": "tegnike",
-		"avatar": "https://avatars.githubusercontent.com/u/35606144?u=9fc77c0fed7df14afd0aaf8a77bdcb73e5c94fdd&v=4",
-		"amount": 4,
-		"link": "https://github.com/tegnike",
-		"org": false
-	},
-	{
 		"name": "harumeri",
 		"login": "harumeri",
 		"avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
 		"amount": 4,
 		"link": "https://github.com/harumeri",
+		"org": false
+	},
+	{
+		"name": "Shane Chambers",
+		"login": "shanec42",
+		"avatar": "https://avatars.githubusercontent.com/u/59856516?u=13e52c2dfec8a6f5104f33b7445f3c4512354d27&v=4",
+		"amount": 1,
+		"link": "https://github.com/shanec42",
 		"org": false
 	},
 	{
@@ -144,11 +192,19 @@
 		"org": false
 	},
 	{
-		"name": "kazuya kawaguchi",
-		"login": "kazupon",
-		"avatar": "https://avatars.githubusercontent.com/u/72989?u=da19c1508357407cae0b7b11166b072c95c29786&v=4",
+		"name": "Robin Ebers",
+		"login": "robinebers",
+		"avatar": "https://avatars.githubusercontent.com/u/16515780?u=9534ab3b9156b4ad9fd600b09b97805e5a60719b&v=4",
 		"amount": -1,
-		"link": "https://github.com/kazupon",
+		"link": "https://github.com/robinebers",
+		"org": false
+	},
+	{
+		"name": "Kyure_A",
+		"login": "Kyure-A",
+		"avatar": "https://avatars.githubusercontent.com/u/49436968?u=2bd974e60d54693e89708e351842262245025e9b&v=4",
+		"amount": -1,
+		"link": "https://github.com/Kyure-A",
 		"org": false
 	},
 	{
@@ -226,17 +282,17 @@
 	{
 		"name": "Kazuhiro Kobayashi",
 		"login": "kzhrk",
-		"avatar": "https://avatars.githubusercontent.com/u/548508?u=68d40da0a00fd0368a3b9134c1026ebbc9aff410&v=4",
+		"avatar": "https://avatars.githubusercontent.com/u/548508?u=ec502316ba818859d20764d7b02cfb606aa01f40&v=4",
 		"amount": -1,
 		"link": "https://github.com/kzhrk",
 		"org": false
 	},
 	{
 		"name": "聖永宗玄 Seiei Sōgen",
-		"login": "SeieiSogen",
+		"login": "seiei-sogen",
 		"avatar": "https://avatars.githubusercontent.com/u/66318252?u=5580c0663e8187234b36cbf61c37b46cd5d47f1f&v=4",
 		"amount": -1,
-		"link": "https://github.com/SeieiSogen",
+		"link": "https://github.com/seiei-sogen",
 		"org": false
 	},
 	{
@@ -296,6 +352,14 @@
 		"org": false
 	},
 	{
+		"name": "Greg Baugues",
+		"login": "GregBaugues",
+		"avatar": "https://avatars.githubusercontent.com/u/1013128?u=a0487a54e00551c19a120c62a7e65f224c70e7dd&v=4",
+		"amount": -1,
+		"link": "https://github.com/GregBaugues",
+		"org": false
+	},
+	{
 		"name": "mogura",
 		"login": "mgr-kb",
 		"avatar": "https://avatars.githubusercontent.com/u/22042083?u=6c82256ba03fd9605c971610da7b9862e2425407&v=4",
@@ -317,6 +381,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
 		"amount": -1,
 		"link": "https://github.com/vintersnow",
+		"org": false
+	},
+	{
+		"name": "Yusuke Saito",
+		"login": "ysaito8015",
+		"avatar": "https://avatars.githubusercontent.com/u/3502978?u=ca98bf67f04d67080df0feeaa6f007fad51d273f&v=4",
+		"amount": -1,
+		"link": "https://github.com/ysaito8015",
 		"org": false
 	},
 	{
@@ -405,6 +477,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/16760547?u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4",
 		"amount": -1,
 		"link": "https://github.com/terasakisatoshi",
+		"org": false
+	},
+	{
+		"name": "ニケちゃん / nikechan",
+		"login": "tegnike",
+		"avatar": "https://avatars.githubusercontent.com/u/35606144?u=9fc77c0fed7df14afd0aaf8a77bdcb73e5c94fdd&v=4",
+		"amount": -1,
+		"link": "https://github.com/tegnike",
 		"org": false
 	},
 	{
