@@ -1,0 +1,11 @@
+{
+	"$schema": "https://unpkg.com/wrangler/config-schema.json",
+	"name": "sponsors",
+	"compatibility_date": "2026-06-05",
+	"assets": {
+		"directory": "."
+	},
+	"vars": {
+		"SKIP_DEPENDENCY_INSTALL": "true"
+	}
+}
