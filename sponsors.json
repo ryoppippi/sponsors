@@ -8,6 +8,14 @@
 		"org": false
 	},
 	{
+		"name": "TECH WORLD",
+		"login": "techworld-studio",
+		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
+		"amount": 100,
+		"link": "https://github.com/techworld-studio",
+		"org": true
+	},
+	{
 		"name": "CodeRabbit",
 		"login": "coderabbitai",
 		"avatar": "https://avatars.githubusercontent.com/u/132028505?v=4",
@@ -30,6 +38,14 @@
 		"amount": 32,
 		"link": "https://github.com/toyokumo",
 		"org": true
+	},
+	{
+		"name": "Naoya Yamashita",
+		"login": "conao3",
+		"avatar": "https://avatars.githubusercontent.com/u/4703128?v=4",
+		"amount": 10,
+		"link": "https://github.com/conao3",
+		"org": false
 	},
 	{
 		"name": "Satoshi Funayama",
@@ -101,6 +117,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/5019072?u=260263b46edf71d9b94c9ab1a1d449f849854c3b&v=4",
 		"amount": 5,
 		"link": "https://github.com/yamadashy",
+		"org": false
+	},
+	{
+		"name": "yama@muteki",
+		"login": "yamamuteki",
+		"avatar": "https://avatars.githubusercontent.com/u/55806?u=da0514f06d36b001abf54e4c83bff21a8d5a55c9&v=4",
+		"amount": 4,
+		"link": "https://github.com/yamamuteki",
 		"org": false
 	},
 	{
