@@ -64,6 +64,14 @@
 		"org": false
 	},
 	{
+		"name": "bresai",
+		"login": "xiewenya",
+		"avatar": "https://avatars.githubusercontent.com/u/7056560?u=ea188eef55394c58f67a7d60b6d58d5a95ebe395&v=4",
+		"amount": 8,
+		"link": "https://github.com/xiewenya",
+		"org": false
+	},
+	{
 		"name": "r-kagaya",
 		"login": "r-kagaya",
 		"avatar": "https://avatars.githubusercontent.com/u/20347995?u=a63425fb86767f70d35adb41f5353508480e70eb&v=4",
@@ -184,7 +192,7 @@
 		"org": false
 	},
 	{
-		"name": null,
+		"name": "Makoto Saeki",
 		"login": "sumire0204",
 		"avatar": "https://avatars.githubusercontent.com/u/52736785?u=a8f96dbd81efc9d096d44ee34de0a2b064d48944&v=4",
 		"amount": 4,
