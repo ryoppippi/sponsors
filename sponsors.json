@@ -90,7 +90,7 @@
 	{
 		"name": "KAY",
 		"login": "k1-c",
-		"avatar": "https://avatars.githubusercontent.com/u/48673329?u=fbe38a4604bdccc4ca79883487f6a729fceeca85&v=4",
+		"avatar": "https://avatars.githubusercontent.com/u/48673329?u=c9330c1bdce1976fd681ebf7f52a6234d2627a6f&v=4",
 		"amount": 8,
 		"link": "https://github.com/k1-c",
 		"org": false
@@ -117,6 +117,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/11222510?u=31b28364b7ecf07e8e499bc58dfe0a388edeaeea&v=4",
 		"amount": 8,
 		"link": "https://github.com/takeokunn",
+		"org": false
+	},
+	{
+		"name": "sigma",
+		"login": "RyosukeDTomita",
+		"avatar": "https://avatars.githubusercontent.com/u/50137312?u=34e120ecfc2a7b36b90ddf326b9cefe312e70d86&v=4",
+		"amount": 5,
+		"link": "https://github.com/RyosukeDTomita",
 		"org": false
 	},
 	{
