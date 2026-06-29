@@ -1,5 +1,13 @@
 [
 	{
+		"name": "Findy Inc.",
+		"login": "findy-devrel",
+		"avatar": "https://avatars.githubusercontent.com/u/272748093?u=b62b6d1406874420a73d7d1863082b4e2b476f5e&v=4",
+		"amount": 135,
+		"link": "https://github.com/findy-devrel",
+		"org": false
+	},
+	{
 		"name": "Theo Browne",
 		"login": "t3dotgg",
 		"avatar": "https://avatars.githubusercontent.com/u/6751787?u=69a6486b20fc980615e51457f6a5b56103cea295&v=4",
