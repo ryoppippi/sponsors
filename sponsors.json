@@ -48,14 +48,6 @@
 		"org": false
 	},
 	{
-		"name": "Satoshi Funayama",
-		"login": "akchan",
-		"avatar": "https://avatars.githubusercontent.com/u/6899199?u=30d268b0db5ab918c7aee9424d278109e65997f3&v=4",
-		"amount": 10,
-		"link": "https://github.com/akchan",
-		"org": false
-	},
-	{
 		"name": "bresai",
 		"login": "xiewenya",
 		"avatar": "https://avatars.githubusercontent.com/u/7056560?u=ea188eef55394c58f67a7d60b6d58d5a95ebe395&v=4",
@@ -245,6 +237,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
 		"amount": 1,
 		"link": "https://github.com/matsu7874",
+		"org": false
+	},
+	{
+		"name": "Satoshi Funayama",
+		"login": "akchan",
+		"avatar": "https://avatars.githubusercontent.com/u/6899199?u=30d268b0db5ab918c7aee9424d278109e65997f3&v=4",
+		"amount": -1,
+		"link": "https://github.com/akchan",
 		"org": false
 	},
 	{
