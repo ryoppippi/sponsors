@@ -128,6 +128,14 @@
 		"org": false
 	},
 	{
+		"name": "びーぐる(Beagle Works)",
+		"login": "beagleworks",
+		"avatar": "https://avatars.githubusercontent.com/u/6988141?u=cf4ba79d65abd7931885726fae9f9b5b830a5b62&v=4",
+		"amount": 4,
+		"link": "https://github.com/beagleworks",
+		"org": false
+	},
+	{
 		"name": "Yunfei He",
 		"login": "hyf0",
 		"avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
