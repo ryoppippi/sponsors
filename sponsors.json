@@ -16,19 +16,19 @@
 		"org": false
 	},
 	{
-		"name": "TECH WORLD",
-		"login": "techworld-studio",
-		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
-		"amount": 100,
-		"link": "https://github.com/techworld-studio",
-		"org": true
-	},
-	{
 		"name": "CodeRabbit",
 		"login": "coderabbitai",
 		"avatar": "https://avatars.githubusercontent.com/u/132028505?v=4",
 		"amount": 100,
 		"link": "https://github.com/coderabbitai",
+		"org": true
+	},
+	{
+		"name": "TECH WORLD",
+		"login": "techworld-studio",
+		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
+		"amount": 32,
+		"link": "https://github.com/techworld-studio",
 		"org": true
 	},
 	{
@@ -38,14 +38,6 @@
 		"amount": 16,
 		"link": "https://github.com/toyokumo",
 		"org": true
-	},
-	{
-		"name": "Naoya Yamashita",
-		"login": "conao3",
-		"avatar": "https://avatars.githubusercontent.com/u/4703128?v=4",
-		"amount": 10,
-		"link": "https://github.com/conao3",
-		"org": false
 	},
 	{
 		"name": "bresai",
@@ -245,6 +237,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
 		"amount": 1,
 		"link": "https://github.com/matsu7874",
+		"org": false
+	},
+	{
+		"name": "Naoya Yamashita",
+		"login": "conao3",
+		"avatar": "https://avatars.githubusercontent.com/u/4703128?v=4",
+		"amount": -1,
+		"link": "https://github.com/conao3",
 		"org": false
 	},
 	{
