@@ -48,6 +48,14 @@
 		"org": false
 	},
 	{
+		"name": "Christopher Butler",
+		"login": "techsaint",
+		"avatar": "https://avatars.githubusercontent.com/u/444388?v=4",
+		"amount": 8,
+		"link": "https://github.com/techsaint",
+		"org": false
+	},
+	{
 		"name": "bresai",
 		"login": "xiewenya",
 		"avatar": "https://avatars.githubusercontent.com/u/7056560?u=ea188eef55394c58f67a7d60b6d58d5a95ebe395&v=4",
@@ -137,10 +145,10 @@
 	},
 	{
 		"name": "Yunfei He",
-		"login": "hyf0",
+		"login": "hyfdev",
 		"avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
 		"amount": 4,
-		"link": "https://github.com/hyf0",
+		"link": "https://github.com/hyfdev",
 		"org": false
 	},
 	{
