@@ -120,14 +120,6 @@
 		"org": false
 	},
 	{
-		"name": "sigma",
-		"login": "RyosukeDTomita",
-		"avatar": "https://avatars.githubusercontent.com/u/50137312?u=34e120ecfc2a7b36b90ddf326b9cefe312e70d86&v=4",
-		"amount": 5,
-		"link": "https://github.com/RyosukeDTomita",
-		"org": false
-	},
-	{
 		"name": "Kazuki Yamada",
 		"login": "yamadashy",
 		"avatar": "https://avatars.githubusercontent.com/u/5019072?u=260263b46edf71d9b94c9ab1a1d449f849854c3b&v=4",
@@ -253,6 +245,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
 		"amount": 1,
 		"link": "https://github.com/matsu7874",
+		"org": false
+	},
+	{
+		"name": "sigma",
+		"login": "RyosukeDTomita",
+		"avatar": "https://avatars.githubusercontent.com/u/50137312?u=34e120ecfc2a7b36b90ddf326b9cefe312e70d86&v=4",
+		"amount": -1,
+		"link": "https://github.com/RyosukeDTomita",
 		"org": false
 	},
 	{
