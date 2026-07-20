@@ -112,6 +112,14 @@
 		"org": false
 	},
 	{
+		"name": null,
+		"login": "moritalous",
+		"avatar": "https://avatars.githubusercontent.com/u/7269107?u=5411569ace4e23d6eef5999ebafb462bc206cf4f&v=4",
+		"amount": 5,
+		"link": "https://github.com/moritalous",
+		"org": false
+	},
+	{
 		"name": "Kazuki Yamada",
 		"login": "yamadashy",
 		"avatar": "https://avatars.githubusercontent.com/u/5019072?u=260263b46edf71d9b94c9ab1a1d449f849854c3b&v=4",
@@ -221,6 +229,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
 		"amount": 4,
 		"link": "https://github.com/harumeri",
+		"org": false
+	},
+	{
+		"name": "Really Him",
+		"login": "hesreallyhim",
+		"avatar": "https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4",
+		"amount": 1,
+		"link": "https://github.com/hesreallyhim",
 		"org": false
 	},
 	{
