@@ -24,6 +24,14 @@
 		"org": true
 	},
 	{
+		"name": "moozaru_ch",
+		"login": "moozaru-ch",
+		"avatar": "https://avatars.githubusercontent.com/u/65350816?v=4",
+		"amount": 50,
+		"link": "https://github.com/moozaru-ch",
+		"org": true
+	},
+	{
 		"name": "TECH WORLD",
 		"login": "techworld-studio",
 		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
