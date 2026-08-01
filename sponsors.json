@@ -1,13 +1,5 @@
 [
 	{
-		"name": "Theo Browne",
-		"login": "t3dotgg",
-		"avatar": "https://avatars.githubusercontent.com/u/6751787?u=69a6486b20fc980615e51457f6a5b56103cea295&v=4",
-		"amount": 128,
-		"link": "https://github.com/t3dotgg",
-		"org": false
-	},
-	{
 		"name": "CodeRabbit",
 		"login": "coderabbitai",
 		"avatar": "https://avatars.githubusercontent.com/u/132028505?v=4",
@@ -16,27 +8,19 @@
 		"org": true
 	},
 	{
+		"name": "Theo Browne",
+		"login": "t3dotgg",
+		"avatar": "https://avatars.githubusercontent.com/u/6751787?u=69a6486b20fc980615e51457f6a5b56103cea295&v=4",
+		"amount": 64,
+		"link": "https://github.com/t3dotgg",
+		"org": false
+	},
+	{
 		"name": "moozaru_ch",
 		"login": "moozaru-ch",
 		"avatar": "https://avatars.githubusercontent.com/u/65350816?v=4",
 		"amount": 50,
 		"link": "https://github.com/moozaru-ch",
-		"org": true
-	},
-	{
-		"name": "TECH WORLD",
-		"login": "techworld-studio",
-		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
-		"amount": 32,
-		"link": "https://github.com/techworld-studio",
-		"org": true
-	},
-	{
-		"name": "TOYOKUMO",
-		"login": "toyokumo",
-		"avatar": "https://avatars.githubusercontent.com/u/2443340?v=4",
-		"amount": 16,
-		"link": "https://github.com/toyokumo",
 		"org": true
 	},
 	{
@@ -78,6 +62,14 @@
 		"amount": 8,
 		"link": "https://github.com/nyapan-mohy",
 		"org": false
+	},
+	{
+		"name": "TOYOKUMO",
+		"login": "toyokumo",
+		"avatar": "https://avatars.githubusercontent.com/u/2443340?v=4",
+		"amount": 8,
+		"link": "https://github.com/toyokumo",
+		"org": true
 	},
 	{
 		"name": "KAY",
@@ -136,20 +128,20 @@
 		"org": false
 	},
 	{
-		"name": "Findy Inc.",
-		"login": "findy-devrel",
-		"avatar": "https://avatars.githubusercontent.com/u/272748093?u=b62b6d1406874420a73d7d1863082b4e2b476f5e&v=4",
-		"amount": 4,
-		"link": "https://github.com/findy-devrel",
-		"org": false
-	},
-	{
 		"name": "Yunfei He",
 		"login": "hyfdev",
 		"avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
 		"amount": 4,
 		"link": "https://github.com/hyfdev",
 		"org": false
+	},
+	{
+		"name": "TECH WORLD",
+		"login": "techworld-studio",
+		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
+		"amount": 4,
+		"link": "https://github.com/techworld-studio",
+		"org": true
 	},
 	{
 		"name": "yama@muteki",
@@ -269,6 +261,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/1408049?u=136cab1024dbf7754f14145b4cb7b8cfd00cd724&v=4",
 		"amount": 1,
 		"link": "https://github.com/matsu7874",
+		"org": false
+	},
+	{
+		"name": "Findy Inc.",
+		"login": "findy-devrel",
+		"avatar": "https://avatars.githubusercontent.com/u/272748093?u=b62b6d1406874420a73d7d1863082b4e2b476f5e&v=4",
+		"amount": -1,
+		"link": "https://github.com/findy-devrel",
 		"org": false
 	},
 	{
