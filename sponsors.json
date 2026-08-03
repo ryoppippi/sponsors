@@ -224,14 +224,6 @@
 		"org": false
 	},
 	{
-		"name": "harumeri",
-		"login": "harumeri",
-		"avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
-		"amount": 4,
-		"link": "https://github.com/harumeri",
-		"org": false
-	},
-	{
 		"name": "Really Him",
 		"login": "hesreallyhim",
 		"avatar": "https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4",
@@ -613,6 +605,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/116678712?u=a22c59cbe20569fb184f81e3a1f05078de573bae&v=4",
 		"amount": -1,
 		"link": "https://github.com/miyashita-code",
+		"org": false
+	},
+	{
+		"name": "harumeri",
+		"login": "harumeri",
+		"avatar": "https://avatars.githubusercontent.com/u/58729873?u=325d44a44cc3ba1e805678cb55ddbe845f5bef18&v=4",
+		"amount": -1,
+		"link": "https://github.com/harumeri",
 		"org": false
 	},
 	{
