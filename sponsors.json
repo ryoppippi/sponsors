@@ -24,6 +24,14 @@
 		"org": true
 	},
 	{
+		"name": "Hajime Hoshi",
+		"login": "hajimehoshi",
+		"avatar": "https://avatars.githubusercontent.com/u/16950?u=d6b1e4d5ff3cc9496452c4a9003f2ff0b8ee46eb&v=4",
+		"amount": 10,
+		"link": "https://github.com/hajimehoshi",
+		"org": false
+	},
+	{
 		"name": "Christopher Butler",
 		"login": "techsaint",
 		"avatar": "https://avatars.githubusercontent.com/u/444388?v=4",
@@ -426,7 +434,7 @@
 	{
 		"name": "Taylor A. Murphy",
 		"login": "tayloramurphy",
-		"avatar": "https://avatars.githubusercontent.com/u/5394188?u=5790d25ff214518233b3d1710bbf847d2bf1b59b&v=4",
+		"avatar": "https://avatars.githubusercontent.com/u/5394188?u=1bbd6742140dbe06e813d9febc2066f697c7d59b&v=4",
 		"amount": -1,
 		"link": "https://github.com/tayloramurphy",
 		"org": false
