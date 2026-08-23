@@ -192,27 +192,11 @@
 		"org": false
 	},
 	{
-		"name": "motoki317",
-		"login": "motoki317",
-		"avatar": "https://avatars.githubusercontent.com/u/18257693?u=f539017e33c5c851db7be078d181ea92700e3cef&v=4",
-		"amount": 4,
-		"link": "https://github.com/motoki317",
-		"org": false
-	},
-	{
 		"name": "Suguru Kishimoto",
 		"login": "sgr-ksmt",
 		"avatar": "https://avatars.githubusercontent.com/u/9350581?u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4",
 		"amount": 4,
 		"link": "https://github.com/sgr-ksmt",
-		"org": false
-	},
-	{
-		"name": "Makoto Saeki",
-		"login": "sumire0204",
-		"avatar": "https://avatars.githubusercontent.com/u/52736785?u=a8f96dbd81efc9d096d44ee34de0a2b064d48944&v=4",
-		"amount": 4,
-		"link": "https://github.com/sumire0204",
 		"org": false
 	},
 	{
@@ -544,6 +528,14 @@
 		"org": false
 	},
 	{
+		"name": "motoki317",
+		"login": "motoki317",
+		"avatar": "https://avatars.githubusercontent.com/u/18257693?u=f539017e33c5c851db7be078d181ea92700e3cef&v=4",
+		"amount": -1,
+		"link": "https://github.com/motoki317",
+		"org": false
+	},
+	{
 		"name": "Tomoki Saito - 齋藤 智樹",
 		"login": "Tomoki-Saito",
 		"avatar": "https://avatars.githubusercontent.com/u/53966963?u=e8ee0900961b7ed3bb1e58b24bb383aea1b8c5e6&v=4",
@@ -589,6 +581,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/26535237?u=07ec30702e6e1e290e082c51efb25abda83a3487&v=4",
 		"amount": -1,
 		"link": "https://github.com/schroneko",
+		"org": false
+	},
+	{
+		"name": "Makoto Saeki",
+		"login": "sumire0204",
+		"avatar": "https://avatars.githubusercontent.com/u/52736785?u=a8f96dbd81efc9d096d44ee34de0a2b064d48944&v=4",
+		"amount": -1,
+		"link": "https://github.com/sumire0204",
 		"org": false
 	},
 	{
