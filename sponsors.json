@@ -184,14 +184,6 @@
 		"org": false
 	},
 	{
-		"name": "Yusuke Saito",
-		"login": "ysaito8015",
-		"avatar": "https://avatars.githubusercontent.com/u/3502978?u=ca98bf67f04d67080df0feeaa6f007fad51d273f&v=4",
-		"amount": 4,
-		"link": "https://github.com/ysaito8015",
-		"org": false
-	},
-	{
 		"name": "Suguru Kishimoto",
 		"login": "sgr-ksmt",
 		"avatar": "https://avatars.githubusercontent.com/u/9350581?u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4",
@@ -493,6 +485,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/6247314?v=4",
 		"amount": -1,
 		"link": "https://github.com/vintersnow",
+		"org": false
+	},
+	{
+		"name": "Yusuke Saito",
+		"login": "ysaito8015",
+		"avatar": "https://avatars.githubusercontent.com/u/3502978?u=ca98bf67f04d67080df0feeaa6f007fad51d273f&v=4",
+		"amount": -1,
+		"link": "https://github.com/ysaito8015",
 		"org": false
 	},
 	{
