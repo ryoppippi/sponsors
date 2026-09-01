@@ -11,17 +11,9 @@
 		"name": "Theo Browne",
 		"login": "t3dotgg",
 		"avatar": "https://avatars.githubusercontent.com/u/6751787?u=69a6486b20fc980615e51457f6a5b56103cea295&v=4",
-		"amount": 64,
+		"amount": 32,
 		"link": "https://github.com/t3dotgg",
 		"org": false
-	},
-	{
-		"name": "moozaru_ch",
-		"login": "moozaru-ch",
-		"avatar": "https://avatars.githubusercontent.com/u/65350816?v=4",
-		"amount": 16,
-		"link": "https://github.com/moozaru-ch",
-		"org": true
 	},
 	{
 		"name": "Hajime Hoshi",
@@ -62,14 +54,6 @@
 		"amount": 8,
 		"link": "https://github.com/nyapan-mohy",
 		"org": false
-	},
-	{
-		"name": "TOYOKUMO",
-		"login": "toyokumo",
-		"avatar": "https://avatars.githubusercontent.com/u/2443340?v=4",
-		"amount": 8,
-		"link": "https://github.com/toyokumo",
-		"org": true
 	},
 	{
 		"name": "KAY",
@@ -126,14 +110,6 @@
 		"amount": 4,
 		"link": "https://github.com/hyfdev",
 		"org": false
-	},
-	{
-		"name": "TECH WORLD",
-		"login": "techworld-studio",
-		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
-		"amount": 4,
-		"link": "https://github.com/techworld-studio",
-		"org": true
 	},
 	{
 		"name": "yama@muteki",
@@ -224,6 +200,14 @@
 		"org": false
 	},
 	{
+		"name": "moozaru_ch",
+		"login": "moozaru-ch",
+		"avatar": "https://avatars.githubusercontent.com/u/65350816?v=4",
+		"amount": -1,
+		"link": "https://github.com/moozaru-ch",
+		"org": true
+	},
+	{
 		"name": null,
 		"login": "moritalous",
 		"avatar": "https://avatars.githubusercontent.com/u/7269107?u=5411569ace4e23d6eef5999ebafb462bc206cf4f&v=4",
@@ -262,6 +246,14 @@
 		"amount": -1,
 		"link": "https://github.com/RyosukeDTomita",
 		"org": false
+	},
+	{
+		"name": "TECH WORLD",
+		"login": "techworld-studio",
+		"avatar": "https://avatars.githubusercontent.com/u/116092538?v=4",
+		"amount": -1,
+		"link": "https://github.com/techworld-studio",
+		"org": true
 	},
 	{
 		"name": "Naoya Yamashita",
@@ -318,6 +310,14 @@
 		"amount": -1,
 		"link": "https://github.com/humanwritten",
 		"org": false
+	},
+	{
+		"name": "TOYOKUMO",
+		"login": "toyokumo",
+		"avatar": "https://avatars.githubusercontent.com/u/2443340?v=4",
+		"amount": -1,
+		"link": "https://github.com/toyokumo",
+		"org": true
 	},
 	{
 		"name": "たつくま",
