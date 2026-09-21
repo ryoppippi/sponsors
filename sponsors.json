@@ -80,14 +80,6 @@
 		"org": false
 	},
 	{
-		"name": "Yunfei He",
-		"login": "hyfdev",
-		"avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
-		"amount": 4,
-		"link": "https://github.com/hyfdev",
-		"org": false
-	},
-	{
 		"name": "yama@muteki",
 		"login": "yamamuteki",
 		"avatar": "https://avatars.githubusercontent.com/u/55806?u=da0514f06d36b001abf54e4c83bff21a8d5a55c9&v=4",
@@ -213,6 +205,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/272748093?u=b62b6d1406874420a73d7d1863082b4e2b476f5e&v=4",
 		"amount": -1,
 		"link": "https://github.com/findy-devrel",
+		"org": false
+	},
+	{
+		"name": "Yunfei He",
+		"login": "hyfdev",
+		"avatar": "https://avatars.githubusercontent.com/u/49502170?u=5e77a887e2bda1d4395abb06d8ea8c9f423e2cc6&v=4",
+		"amount": -1,
+		"link": "https://github.com/hyfdev",
 		"org": false
 	},
 	{
