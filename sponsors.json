@@ -128,14 +128,6 @@
 		"org": false
 	},
 	{
-		"name": "Suguru Kishimoto",
-		"login": "sgr-ksmt",
-		"avatar": "https://avatars.githubusercontent.com/u/9350581?u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4",
-		"amount": 4,
-		"link": "https://github.com/sgr-ksmt",
-		"org": false
-	},
-	{
 		"name": "Really Him",
 		"login": "hesreallyhim",
 		"avatar": "https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4",
@@ -581,6 +573,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/26535237?u=07ec30702e6e1e290e082c51efb25abda83a3487&v=4",
 		"amount": -1,
 		"link": "https://github.com/schroneko",
+		"org": false
+	},
+	{
+		"name": "Suguru Kishimoto",
+		"login": "sgr-ksmt",
+		"avatar": "https://avatars.githubusercontent.com/u/9350581?u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4",
+		"amount": -1,
+		"link": "https://github.com/sgr-ksmt",
 		"org": false
 	},
 	{
