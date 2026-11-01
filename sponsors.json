@@ -8,14 +8,6 @@
 		"org": true
 	},
 	{
-		"name": "Theo Browne",
-		"login": "t3dotgg",
-		"avatar": "https://avatars.githubusercontent.com/u/6751787?u=e0c12e160dc03a1b0164b73de66b917e239cb6b4&v=4",
-		"amount": 16,
-		"link": "https://github.com/t3dotgg",
-		"org": false
-	},
-	{
 		"name": "Christopher Butler",
 		"login": "techsaint",
 		"avatar": "https://avatars.githubusercontent.com/u/444388?v=4",
@@ -93,6 +85,14 @@
 		"avatar": "https://avatars.githubusercontent.com/u/39157998?v=4",
 		"amount": 4,
 		"link": "https://github.com/tadashis-85",
+		"org": false
+	},
+	{
+		"name": "Theo Browne",
+		"login": "t3dotgg",
+		"avatar": "https://avatars.githubusercontent.com/u/6751787?u=e0c12e160dc03a1b0164b73de66b917e239cb6b4&v=4",
+		"amount": 4,
+		"link": "https://github.com/t3dotgg",
 		"org": false
 	},
 	{
