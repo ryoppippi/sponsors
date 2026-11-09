@@ -10,7 +10,7 @@ Automated GitHub sponsor showcase using SponsorKit. Fetches sponsor data and gen
 - **Main Library**: SponsorKit
 - **Linting**: oxlint (strict, type-aware)
 - **Formatting**: oxfmt (tabs, semicolons, single quotes)
-- **Type Checking**: tsgo
+- **Type Checking**: tsc (TypeScript 7, Go-native)
 - **Build System**: Nix Flakes with flake-parts
 
 ## Development Commands
@@ -18,7 +18,7 @@ Automated GitHub sponsor showcase using SponsorKit. Fetches sponsor data and gen
 ```bash
 nix develop                  # Enter dev shell
 pnpm run update               # Generate sponsor visualisations
-pnpm run typecheck            # Type check with tsgo
+pnpm run typecheck            # Type check with tsc
 pnpm run lint                 # Lint with oxlint
 pnpm run format               # Format with oxfmt
 pnpm run format:check         # Check formatting
