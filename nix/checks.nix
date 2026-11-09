@@ -23,7 +23,7 @@ _: {
             }
             ''
               cd $src
-              gitleaks detect --source . --config .gitleaks.toml --no-git
+              gitleaks dir --config .gitleaks.toml .
               touch $out
             '';
       };

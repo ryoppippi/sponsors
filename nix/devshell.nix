@@ -6,7 +6,7 @@ _: {
         packages = with pkgs; [
           nodejs_24
           pnpm
-          typescript-go
+          typescript
           oxlint
           oxfmt
           typos-lsp
